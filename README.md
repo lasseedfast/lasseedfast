@@ -2,4 +2,4 @@
 - 👀 I’m interested in data journalism as a part of my daily work, both as a part of research and for worksflows in Devonthink etc. 
 - 🌱 I’m currently learning JavaScript, although Python still is my first choice in most situations.
 - 💞️ I’m looking to collaborate on international data journalism where I can contribute with research on individuals and text and data analysis. 
-- 📫 You'll find my contact details at https://lasseedfast.se/en
+- 📫 You'll find my contact details at [lasseedfast.se](https://lasseedfast.se)
