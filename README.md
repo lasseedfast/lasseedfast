@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @lasseedfast, journalist and documentary producer in Sweden.
-- 👀 I’m interested in data journalism as a part of my daily work, both as a part of research and for worksflows in Devonthink etc. 
-- 🌱 I’m currently learning JavaScript, although Python still is my first choice in most situations.
+- 👋 Hi, I’m @lasseedfast, a journalist and documentary producer in Sweden.
+- 👀 I’m interested in data journalism as a part of my daily work, both as part of research and for workflows in Devonthink, etc. 
+- 🌱 I’m currently learning JavaScript, although Python is still my first choice in most situations.
 - 💞️ I’m looking to collaborate on international data journalism where I can contribute with research on individuals and text and data analysis. 
 - 📫 You'll find my contact details at [lasseedfast.se](https://lasseedfast.se)
+- 👨‍💻 My repos live in [https://git.edfast.se/lasse](https://git.edfast.se/lasse)
