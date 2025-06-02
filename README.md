@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript, although Python is still my first choice in most situations.
 - 💞️ I’m looking to collaborate on international data journalism where I can contribute with research on individuals and text and data analysis. 
 - 📫 You'll find my contact details at [lasseedfast.se](https://lasseedfast.se)
-- 👨‍💻 My repos live in [https://git.edfast.se/lasse](git.edfast.se/lasse)
+- 👨‍💻 My repos live in [git.edfast.se/lasse](https://git.edfast.se/lasse)
